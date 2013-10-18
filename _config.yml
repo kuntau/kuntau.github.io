@@ -8,14 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Kuntau Web Log
+tagline: A collection of hurdles
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Nizamuddin Sulieman
+  email : kuntau17@gmail.com
+  github : kuntau
+  twitter : kuntau
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -100,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+      tracking_id : 'UA-44070354-1'
     getclicky :
       site_id : 
     mixpanel :
