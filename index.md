@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kuntau on Code
-tagline: Linbungan Pelupusan Otak
+title: Hello World!
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
