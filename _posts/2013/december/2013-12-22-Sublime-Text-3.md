@@ -15,3 +15,4 @@ tags: [sublime text, nota, configuration]
 
 - Soda
 - Sodarized
+
