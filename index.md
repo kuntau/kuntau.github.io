@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Apa Cerita?
-tagline: Limbungan Pelupusan Limpahan Pemikiran
+title: Notaku
+tagline: Takde sape peduli
 ---
 {% include JB/setup %}
 
