@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Tmux + Vim Split: Getting Together
+tagline: apa apa aja
 tags: [tmux, vim, vi]
 ---
-
-Tmux + Vim Split
-================
+## Tmux + Vim Split
 
 ``` VimL
 # Smart pane switching with awareness of vim splits
