@@ -4,6 +4,8 @@ title: Tmux + Vim Split: Getting Together
 tagline: apa apa aja
 tags: [tmux, vim, vi]
 ---
+{% include JB/setup %}
+
 ## Tmux + Vim Split
 
     ``` VimL
